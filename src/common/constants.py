@@ -1,5 +1,5 @@
 # Shared constants across projects
-API_VERSION = "v1"
+API_VERSION = "v2"
 MAX_RETRY_ATTEMPTS = 3
 DEFAULT_TIMEOUT = 30
 
